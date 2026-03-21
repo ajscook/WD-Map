@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Tombs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Name": "Deepwinter Vault", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Deepwinter_Vault", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.035461057562941, 38.323060171033632 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Name": "Brandath Mausoleum", "FRW_Link": null, "Tych_Mapped": "Y", "Tych_Link": "https://www.patreon.com/posts/56532881", "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.034906658329973, 38.322508576978095 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Name": "Cassalanter Mausoleum", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Cassalanter", "Tych_Mapped": "Y", "Tych_Link": "https://www.patreon.com/posts/51106926", "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.035218906173824, 38.322348597252329 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Name": "Roads' End", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Roads%27_End", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.034607155296086, 38.321772000728025 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Name": "Sultlue Vault", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Sultlue_Vault", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.03636806320462, 38.321961978124136 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Name": "House of the Homeless", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/House_of_the_Homeless", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.036567731893868, 38.321067080249342 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "Name": "Merchants' Rest", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Merchants%27_Rest", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.036062187765737, 38.320807107846257 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "Name": "Lords' Respite", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Lords%27_Respite", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.034932147949874, 38.319737211605009 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "Name": "Hall of the Sages", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Hall_of_the_Sages", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.035662850387197, 38.31944557048292 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "Name": "Hall of Heroes", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Hall_of_Heroes_(tomb)", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.03481744466032, 38.319023938672302 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "Name": "Mariners' Rest", "FRW_Link": "https://forgottenrealms.fandom.com/wiki/Mariners%27_Rest", "Tych_Mapped": null, "Tych_Link": null, "Type": "Tomb" }, "geometry": { "type": "Point", "coordinates": [ -123.034524314031387, 38.318538975731471 ] } }
+]
+}
